@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">sillyAndroidProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="labelText">words go here</string>
+    <string name="funText">more fun than a kick to the head.</string>
+    <string name="sarcasmText">you are sooo awesome.</string>
+    <string name="songStuff">Doo waa diddy dumm</string>
+    <string name="UglyRed">Ugly Red</string>
+    <string name="White">White</string>
+
+</resources>
